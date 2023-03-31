@@ -1,4 +1,4 @@
 local Players = game:GetService("Players")
 local LPlayer = Players.LocalPlayer
 
-LPlayer:Kick("Sorry this github link is outdatted. Please Dm vzk#9812")
+LPlayer:Kick("Sorry, this github link is outdatted. Please Dm vzk#9812")
